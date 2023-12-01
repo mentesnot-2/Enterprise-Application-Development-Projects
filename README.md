@@ -25,40 +25,40 @@ The projects within this repository utilize the following technologies:
 - JDBC (Java Database Connectivity)
 ### Projects Included
 
-Project 1: Employee Management.
-Project 2: Java Calculator.
+- Project 1: Employee Management.
+- Project 2: Java Calculator.
 
-Each project directory contains detailed information about the project structure, implementation details, and any specific instructions for running or testing the project.
+Each project directory contains detailed information about the project structure,<br>
+implementation details, and any specific instructions for running or testing the project.
 
+## Enterprise Application Development Course Repository
+Welcome to the Enterprise Application Development Course repository! <br>
+This repository contains a collection of projects developed during the course using various technologies such as Java, Java Servlets, JSP, and JDBC.
 
-Absolutely, a comprehensive README can be immensely helpful for users navigating through your repository. Here's a template you can use as a starting point:
+## Table of Contents
+- Introduction
+- Technologies Used
+- Projects Included
+- Setup Instructions
+- Usage
+- Contributing
 
-Enterprise Application Development Course Repository
-Welcome to the Enterprise Application Development Course repository! This repository contains a collection of projects developed during the course using various technologies such as Java, Java Servlets, JSP, and JDBC.
-
-Table of Contents
-Introduction
-Technologies Used
-Projects Included
-Setup Instructions
-Usage
-Contributing
-License
-Introduction
-This repository serves as a comprehensive resource for projects completed as part of the Enterprise Application Development course. Each project focuses on different aspects of enterprise application development using a variety of technologies.
+## Introduction
+This repository serves as a comprehensive resource for projects completed as part of the Enterprise Application <br>
+Development course. Each project focuses on different aspects of enterprise application development using a variety of technologies.
 
 ### Technologies Used
 The projects within this repository utilize the following technologies:
 
-Java
-Java Servlets
-JSP (JavaServer Pages)
-JDBC (Java Database Connectivity)
-Projects Included
-Project 1: Description of the first project and its purpose.
-Project 2: Description of the second project and its objectives.
-Project 3: Description of the third project and its goals.
-Each project directory contains detailed information about the project structure, implementation details, and any specific instructions for running or testing the project.
+- Java
+- Java Servlets
+- JSP (JavaServer Pages)
+- JDBC (Java Database Connectivity)
+## Projects Included
+- Project 1: Employee Management.
+- Project 2: Java Calculator.
+Each project directory contains detailed information about the project structure,<br>
+implementation details, and any specific instructions for running or testing the project.
 
 ### Setup Instructions
 To run any of the projects included in this repository, follow these general steps:
