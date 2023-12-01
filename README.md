@@ -13,7 +13,7 @@ using various technologies such as Java, Java Servlets, JSP, and JDBC.<br>
 - <span style="color:blue">Contributing</span>
 
 
-### Introduction
+## Introduction
 This repository serves as a comprehensive resource for projects completed as part of the Enterprise <br>
 Application Development course. Each project focuses on different aspects of enterprise application <br>
 development using a variety of technologies.<br>
@@ -30,17 +30,17 @@ The projects within this repository utilize the following technologies:
 Each project directory contains detailed information about the project structure,<br>
 implementation details, and any specific instructions for running or testing the project.
 
-### Setup Instructions
+## Setup Instructions
 To run any of the projects included in this repository, follow these general steps:
 
 1 Clone this repository using git clone https://github.com/mentesnot-2/enterprise-application-development.git.<br>
 2 Navigate to the specific project directory using cd project-directory.<br>
 3 Follow the instructions provided in the project's README file for setup and configuration details.<br>
 
-### Usage
+## Usage
 Detailed usage instructions for each project can be found within their respective directories. Please refer to the individual project's README for specific guidance on running, testing, or contributing to the project.
 
-### Contributing
+###Contributing
 Contributions to this repository are welcome! If you'd like to contribute:
 
 - Fork the repository.
