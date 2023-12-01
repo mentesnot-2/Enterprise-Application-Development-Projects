@@ -1,55 +1,25 @@
 # Enterprise-Application-Development-Projects
 
-Welcome to the Enterprise Application Development Course repository! This repository contains a collection of projects developed during the course using various technologies such as Java, Java Servlets, JSP, and JDBC.
+Welcome to the Enterprise Application Development Course repository! <br>
+This repository contains a collection of projects developed during the course <br>
+using various technologies such as Java, Java Servlets, JSP, and JDBC.<br>
 
 ## Table of Contents
 - <span style="color:blue">Introduction</span>
 - <span style="color:blue">Technologies Used</span>
-- <span style="color:blue"></span>
 - <span style="color:blue">Projects Included</span>
 - <span style="color:blue">Setup Instructions</span>
 - <span style="color:blue">Usage</span>
 - <span style="color:blue">Contributing</span>
-- <span style="color:blue">License</span>
 
 
 ### Introduction
-This repository serves as a comprehensive resource for projects completed as part of the Enterprise Application Development course. Each project focuses on different aspects of enterprise application development using a variety of technologies.
+This repository serves as a comprehensive resource for projects completed as part of the Enterprise <br>
+Application Development course. Each project focuses on different aspects of enterprise application <br>
+development using a variety of technologies.<br>
 
 ### Technologies Used
 The projects within this repository utilize the following technologies:
-
-- Java
-- Java Servlets
-- JSP (JavaServer Pages)
-- JDBC (Java Database Connectivity)
-### Projects Included
-
-- Project 1: Employee Management.
-- Project 2: Java Calculator.
-
-Each project directory contains detailed information about the project structure,<br>
-implementation details, and any specific instructions for running or testing the project.
-
-## Enterprise Application Development Course Repository
-Welcome to the Enterprise Application Development Course repository! <br>
-This repository contains a collection of projects developed during the course using various technologies such as Java, Java Servlets, JSP, and JDBC.
-
-## Table of Contents
-- Introduction
-- Technologies Used
-- Projects Included
-- Setup Instructions
-- Usage
-- Contributing
-
-## Introduction
-This repository serves as a comprehensive resource for projects completed as part of the Enterprise Application <br>
-Development course. Each project focuses on different aspects of enterprise application development using a variety of technologies.
-
-### Technologies Used
-The projects within this repository utilize the following technologies:
-
 - Java
 - Java Servlets
 - JSP (JavaServer Pages)
@@ -63,7 +33,7 @@ implementation details, and any specific instructions for running or testing the
 ### Setup Instructions
 To run any of the projects included in this repository, follow these general steps:
 
-1 Clone this repository using git clone https://github.com/your-username/enterprise-application-development.git.
+1 Clone this repository using git clone https://github.com/mentesnot-2/enterprise-application-development.git.
 2 Navigate to the specific project directory using cd project-directory.
 3 Follow the instructions provided in the project's README file for setup and configuration details.
 
