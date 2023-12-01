@@ -33,9 +33,9 @@ implementation details, and any specific instructions for running or testing the
 ### Setup Instructions
 To run any of the projects included in this repository, follow these general steps:
 
-1 Clone this repository using git clone https://github.com/mentesnot-2/enterprise-application-development.git.
-2 Navigate to the specific project directory using cd project-directory.
-3 Follow the instructions provided in the project's README file for setup and configuration details.
+1 Clone this repository using git clone https://github.com/mentesnot-2/enterprise-application-development.git.<br>
+2 Navigate to the specific project directory using cd project-directory.<br>
+3 Follow the instructions provided in the project's README file for setup and configuration details.<br>
 
 ### Usage
 Detailed usage instructions for each project can be found within their respective directories. Please refer to the individual project's README for specific guidance on running, testing, or contributing to the project.
