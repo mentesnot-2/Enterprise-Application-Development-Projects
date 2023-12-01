@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Employee Management</title>
+<link rel="stylesheet" href="css/bootstrap.css"
+</head>
+<body class="container-fluid card" style="width: 40rem;">
+<h2 class="bg-danger text-white text-center" >Employee Management</h2>
+<form action="register" method="post">
+	<table class="table">
+		<tr>
+			<td>
+				Full Name
+			</td>
+			<td><input name="name" type="text" ></td>
+		</tr>
+		<tr>
+			<td>
+				Designation
+			</td>
+			<td><input name="designation" type="text" ></td>
+		</tr>
+		<tr>
+			<td>
+				Salary
+			</td>
+			<td><input name="salary" type="number" ></td>
+		</tr>
+		<tr>
+			<td><input type="submit" value="Add Employee"></td>
+		    <td><input type="reset" value="Cancel" ></td> 
+		</tr>
+		
+    </table>
+	<a href="employees">View Employees</a>
+</form>
+</body>
+</html>
